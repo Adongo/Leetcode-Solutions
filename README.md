@@ -1,5 +1,5 @@
 # Javascript-Leetcode
-This repo stores all my Javascript solutions for Leetcode problems
+This repo stores all my solutions for Leetcode problems
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
